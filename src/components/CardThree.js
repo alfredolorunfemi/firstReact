@@ -131,11 +131,6 @@ function CardThree() {
           </div>
         </div>
 
-
-
-
-
-
       </div>
     </>
   );

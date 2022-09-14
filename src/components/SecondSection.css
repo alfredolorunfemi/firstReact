@@ -23,4 +23,12 @@
   .features p {
     padding: 3px;
   }
+
   
+  @media screen and (max-width: 600px) {
+    .features {
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+  }

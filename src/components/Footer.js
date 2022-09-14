@@ -10,12 +10,12 @@ function Footer() {
         <div className='footer-image'>
             <img className="logo" src="./images/logo.png" alt="logo" />
         </div>
-        <div>
+    
+     </div>
+     <div>
         < BsFillEnvelopeFill />
       < FiFacebook />
       </div>
-  
-     </div>
     </>
   );
 }

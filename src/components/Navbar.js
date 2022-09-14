@@ -68,7 +68,13 @@ function Navbar() {
           <h5>
             <a href="career">Career</a>
           </h5>
+          {/* <button  className="nav-btn nav-close-btn" onClick={showNavbar}>
+            <FaTimes/>
+          </button> */}
         </div>
+          {/* <button>
+            <FaBars/>
+            </button> */}
       </div>
     </>
   );
