@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Titillium Web", sans-serif;
+  }
+  
+  .firstSectionStyle {
+    display: flex;
+    flex-direction: row;
+    background-color: #eeeeee;
+    justify-content: space-between;
+    padding: 18px;
+    padding-left: 250px;
+    padding-top: 120px;
+    background-color: white;
+  }
+  
+  .firstSectionStyle h1 {
+    font-size: 50px;
+  }
+  
+  .columntext {
+    flex-direction: column;
+  }
+  .people {
+    color: #5aa469;
+    padding: 5px;
+    padding-top: 50px;
+  }
+  
+  .produce {
+    color: black;
+    padding: 5px;
+  }
+  
+  .prosper {
+    color: #5aa469;
+    padding: 5px;
+  }
+  
+  .ity {
+    color: lawngreen;
+  }
+  
+  .firstText {
+    color: #3a6351;
+  }
+  
+  .firstSectionStyle p {
+    background-color: white;
+    font-size: small;
+    font-family: sans-serif;
+    padding: 3px;
+  }
+  
+  .firstParagragh {
+    color: green;
+    font-size: x-large;
+    font-weight: bold;
+    padding: 7px;
+    margin-top: 30px;
+  }
+  
+  .peopleImage {
+    height: 40px;
+    width: 40px;
+  }
+  
+  .paragraghAndImage {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .firstImage {
+    padding-right: 70px;
+    border-radius: 30px;
+  }
+  

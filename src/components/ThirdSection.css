@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  .features {
+    text-align: center;
+    justify-content: center;
+    margin-top: 5px;
+    padding-top: 50px;
+  }
+  
+  .features h1 {
+    color: #5aa469;
+  }
+  
+  .areas {
+    color: lawngreen;
+  }
+  
