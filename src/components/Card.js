@@ -15,6 +15,9 @@ function Card() {
               <div className="card-title">
                 <p>Primary Production </p>
               </div>
+              <div >
+              <img className="card-logo" src="./images/primary.png" alt="primary production" />
+            </div>
               <div>
                 <p className="description">
                   We enhance yield outcomes in primary agricultural production,
@@ -43,6 +46,9 @@ function Card() {
             <div className="card-title">
               <p>Agri Business </p>
             </div>
+            <div >
+              <img className="card-logo" src="./images/agribusiness.png" alt="agribusiness" />
+            </div>
             <div>
               <p className="description">
                 Our agribusiness services are geared towards supporting and
@@ -70,6 +76,9 @@ function Card() {
                 <div className="card-title">
                   <p>Financial Services </p>
                 </div>
+                <div >
+              <img className="card-logo" src="./images/financialservices.png" alt="financialservices" />
+            </div>
                 <div>
                   <p className="description">
                     AgroMall is keen on creating inclusive prosperity by

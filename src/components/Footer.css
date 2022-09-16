@@ -10,3 +10,12 @@
     padding: 100px;
 }
 
+.icons {
+    align-items: center;
+    color: #5aa469;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+

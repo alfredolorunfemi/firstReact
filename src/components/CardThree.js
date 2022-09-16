@@ -29,7 +29,7 @@ function CardThree() {
               </button>
             </div>
             <div className="LastCard">
-              <img
+              <img 
                 src="./images/01.png"
                 alt="primary production"
                 className="LastCardImage"

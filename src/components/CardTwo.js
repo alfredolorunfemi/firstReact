@@ -13,14 +13,14 @@ function CardTwo() {
 
             <div className="card-content">
               <div className="card-title">
-                <p>Primary Production </p>
+                <p>Processing and Mills </p>
               </div>
+              <div >
+              <img className="card-logo" src="./images/processing.png" alt="processing & mills" />
+            </div>
               <div>
                 <p className="description">
-                  We enhance yield outcomes in primary agricultural production,
-                  through well-structured and organized support such as farm and
-                  farmer management, mechanization and irrigation for small and
-                  large out grower schemes
+                 AgroMall understands the importance of post-harvest value addition to the creation of prpsperity. Hence, we support processing and milling of tomato, mango and rice.
                 </p>
               </div>
             </div>
@@ -41,14 +41,14 @@ function CardTwo() {
 
             <div className="card-content"></div>
             <div className="card-title">
-              <p>Agri Business </p>
+              <p>Dairy Development </p>
+            </div>
+            <div >
+              <img className="card-logo" src="./images/dairy.png" alt="dairy development" />
             </div>
             <div>
               <p className="description">
-                Our agribusiness services are geared towards supporting and
-                enhancing activities such as aggregation and logistics that
-                connect agricultural intermediaries and value chain
-                participants.
+                AgroMall is developing capabilities to support forage development, herd management and milk production using integrated and small-holder out grower models.
               </p>
             </div>
 
@@ -68,14 +68,14 @@ function CardTwo() {
 
             <div className="card-content">
               <div className="card-title">
-                <p>Financial Services </p>
+                <p>Education </p>
               </div>
+              <div >
+              <img className="card-logo" src="./images/education.png" alt="education" />
+            </div>
               <div>
                 <p className="description">
-                  AgroMall is keen on creating inclusive prosperity by improving
-                  financial inclusion. We use our close interaction with farmers
-                  and other value chain participants to facilitate the
-                  distribution of financial services in agriculture.
+                  Improving research and innovation in Agriculture is at the core of our outlook. Our development of digital agriculture hubs and ranch schools is designed to  expose young...
                 </p>
               </div>
             </div>
