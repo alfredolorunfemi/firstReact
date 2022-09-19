@@ -11,9 +11,9 @@ function Footer() {
         <div className='footer-image'>
             <img className="logo" src="./images/logo.png" alt="logo" />
             <div className='icons'>
-        < BsFillEnvelopeFill />
+        {/* < BsFillEnvelopeFill />
       < FaFacebookF />
-      <AiFillInstagram />
+      <AiFillInstagram /> */}
       </div>
         </div>
     

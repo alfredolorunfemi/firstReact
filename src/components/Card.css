@@ -87,4 +87,10 @@
     text-decoration: none;
     font-weight: bold;
   }
-  
+
+  @media screen and (max-width: 600px) {
+  .full-container {
+    display: column;
+    justify-self: start;
+  }
+  }

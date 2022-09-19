@@ -8,11 +8,13 @@ function FirstSection() {
       <div className="firstSectionStyle">
         <div className="columnText">
           <div className="firstText">
+           
             <h1 className="people">People</h1>
             <h1 className="produce">Produce</h1>
             <h1 className="prosper">
               Prosper<span className="ity">ity</span>
             </h1>
+       
           </div>
 
           <div className="paragraphText">
@@ -24,9 +26,18 @@ function FirstSection() {
                 alt="stock"
               />
             </div>
+            <div className="animated-text">
+            <div className="line">
             <p>Our work improves the flow of commerce and</p>
+            </div>
+            <div className="line">
             <p>conversion of opportunity by connection areas</p>
+            </div>
+            <div className="line">
             <p>of agricultural value chains</p>
+            </div>
+            
+            </div>
           </div>
         </div>
 
